@@ -13,8 +13,25 @@ I'm a Front-End Developer passionate about building clean, responsive, and user-
 
 ### 🛠️ Skills & Technologies
 
-*Add the technologies you actively use here.*
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Bootstrap
+- Tailwind CSS
 
+**Tools & Workflow**
+- Git & GitHub
+- Visual Studio Code
+- Responsive Web Design
+- UI/UX Fundamentals
+
+### 🎯 What I Focus On
+- Building responsive and user-friendly websites.
+- Creating clean and organized code.
+- Developing reusable UI components.
+- Improving website usability and user experience.
 ---
 
 ### 🚀 Featured Projects
