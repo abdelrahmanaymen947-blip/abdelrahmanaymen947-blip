@@ -36,7 +36,18 @@ I'm a Front-End Developer passionate about building clean, responsive, and user-
 
 ### 🚀 Featured Projects
 
-Check out my repositories to explore my work and development projects.
+#### 💻 Personal Portfolio Website
+A modern, responsive portfolio website showcasing my front-end development skills, projects, and experience.
+
+**Technologies:** HTML, CSS, JavaScript, Tailwind CSS
+
+🔗 **Live Demo:** [View Portfolio](https://github.com/abdelrahmanaymen947-blip/Portfolio-)
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/abdelrahmanaymen947-blip/Portfolio-)
+
+---
+
+⭐ More projects coming soon!
 
 ---
 
