@@ -29,4 +29,4 @@ Check out my repositories to explore my work and development projects.
 
 ---
 
-⭐ Thanks for visiting my profile!  اومال دا هحطو فين
+⭐ Thanks for visiting my profile! 
